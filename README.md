@@ -16,7 +16,7 @@ S-Rank Builder é uma aplicação de linha de comando criada com Node.js e TypeS
 
 ## Como executar
 
-- Para iniciar a aplicação: `yarn startF`
+- Para iniciar a aplicação: `yarn start`
 
 A aplicação exibirá um menu interativo no terminal com opções para buscar dados, limpar o cache ou sair.
 
