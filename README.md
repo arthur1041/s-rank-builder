@@ -4,7 +4,7 @@ S-Rank Builder é uma aplicação de linha de comando criada com Node.js e TypeS
 
 ## Requisitos
 
-- Node.js (versão 16 ou superior).
+- Node.js (versão 20 ou superior).
 - Yarn para gerenciar dependências.
 - SQLite para cache local.
 
