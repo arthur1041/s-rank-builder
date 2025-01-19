@@ -1,0 +1,27 @@
+{
+  "name": "s-rank-builder",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/main.ts",
+    "lint": "eslint . --fix"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "better-sqlite3": "^11.8.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.12",
+    "@types/xlsx": "^0.0.36",
+    "@typescript-eslint/eslint-plugin": "^8.20.0",
+    "@typescript-eslint/parser": "^8.20.0",
+    "eslint": "^9.18.0",
+    "eslint-config-prettier": "^10.0.1",
+    "eslint-plugin-prettier": "^5.2.3",
+    "prettier": "^3.4.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}

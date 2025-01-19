@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true, // Formatar ao salvar
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "eslint.validate": [
+    "javascript",
+    "typescript",
+    "typescriptreact"
+  ],
+  "prettier.configPath": "./.prettierrc.js" // Aponta diretamente para o arquivo de configuração do Prettier
+}
